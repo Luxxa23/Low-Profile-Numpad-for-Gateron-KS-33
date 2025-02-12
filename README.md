@@ -30,16 +30,15 @@ Things to improve/do differently:
 
 ## Build Notes
 
-PCBs ordered on [JLCPCB](https://jlcpcb.com/)
-The main PCB is 1.6mm thick, the plate PCB is 1mm thick.
-The parts were printed on a BambuLab A1 using their black PLA Basic filament.
+* PCBs ordered on [JLCPCB](https://jlcpcb.com/). The main PCB is 1.6mm thick, the plate PCB is 1mm thick.
 
-The fit of the PCB is pretty tight, maybe it should've been a few millimetres wider.
-There are holes for M2x3 heat set inserts in the case. I used black M2x8 screws with a flat, non-countersunk head.
-I used a sharpie to paint the edge of the plate PCB black.
-Use thin, flexible wires for the encoder since there's no a lot of space in the case
-The cover for the OLED is only 0.6mm at the top, so it's very flimsy. If you have a smooth build plate print it upside down, I printed it using the top layer ironing feature with supports. The OLED is supposed to slide into the cover from the side. The fit is too tight, so use a small file to get it to fit perfectly.
-There are 11mm diameter, 1.5mm deep holes on the botton where for small rubber feet can be stuck.
+* The parts were printed on a BambuLab A1 using their black PLA Basic filament.
+
+* The fit of the PCB is pretty tight, maybe it should've been a few millimetres wider. There are holes for M2x3 heat set inserts in the case. I used black M2x8 screws with a flat, non-countersunk head.
+* I used a sharpie to paint the edge of the plate PCB black.
+* Use thin, flexible wires for the encoder since there's no a lot of space in the case
+*The cover for the OLED is only 0.6mm at the top, so it's very flimsy. If you have a smooth build plate print it upside down, I printed it using the top layer ironing feature with supports. The OLED is supposed to slide into the cover from the side. The fit is too tight, so use a small file to get it to fit perfectly.
+*There are 11mm diameter, 1.5mm deep holes on the botton where for small rubber feet can be stuck.
 
 ## Firmware
 
