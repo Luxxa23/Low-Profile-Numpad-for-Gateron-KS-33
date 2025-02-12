@@ -43,6 +43,7 @@ Things to improve/do differently:
 ## Firmware
 
 Since the numpad is using an RP2040 processor, I decided to use [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
+I uploaded my code.py file, you'll have to install and set up KMK yourself (and edit the OLED display contents/make your own images for it)
 My programming knowledge is pretty limited and there aren't a lot of resources on KMK online, so I didn't figure out how to get the display to show Num- and Caps lock without using dummy layers as variables.
 
 ## Inspiration and resources
