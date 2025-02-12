@@ -48,7 +48,8 @@ My programming knowledge is pretty limited and there aren't a lot of resources o
 
 ## Inspiration and resources
 
-Inspiration for plate PCB and distances between keys: https://github.com/shanna/pla_nck/ 
+Inspiration for plate PCB and distances between keys: https://github.com/shanna/pla_nck
+
 KiCad footprint for Gateron Low Profile hotswap sockets: https://gist.github.com/niw/22c68c2d7c869b990588b4875a654442 
 
 ## Gallery
