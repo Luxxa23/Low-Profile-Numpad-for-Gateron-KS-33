@@ -26,6 +26,7 @@ Things to improve/do differently:
 * 0.91" OLED Display (SSD1306) [Aliexpress](https://de.aliexpress.com/item/1005004622658983.html)
 * Bourns PEC11R-4315F-S0012 [Encoder](https://www2.mouser.com/ProductDetail/652-PEC11R4315FS0012)
 * PCBs ordered on [JLCPCB](https://jlcpcb.com/)
+* M2 heat set inserts and screws
 
 ## Build Notes
 
