@@ -46,6 +46,11 @@ There are 11mm diameter, 1.5mm deep holes on the botton where for small rubber f
 Since the numpad is using an RP2040 processor, I decided to use [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
 My programming knowledge is pretty limited and there aren't a lot of resources on KMK online, so I didn't figure out how to get the display to show Num- and Caps lock without using dummy layers as variables.
 
+## Inspiration and resources
+
+Inspiration for plate PCB and distances between keys: https://github.com/shanna/pla_nck/ 
+KiCad footprint for Gateron Low Profile hotswap sockets: https://gist.github.com/niw/22c68c2d7c869b990588b4875a654442 
+
 ## Gallery
 
 ![Numpad with Keychron K3 Max](./images/20250209_143836.jpg)
