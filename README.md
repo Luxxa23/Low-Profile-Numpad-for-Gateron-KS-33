@@ -17,15 +17,15 @@ Things to improve/do differently:
 
 ## Building Materials
 
-Gateron [KS-33 Switches ](https://www.gateron.com/products/gateron-ks-33-low-profile-switch-set)
-Gateron [Low Profile Hotswap Sockets](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket)
-Gateron [Low Profile Stabilizers](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10477)
-Wormier double-shot PBT keycaps [Aliexpress](https://aliexpress.com/item/1005008227731750.html)
+* Gateron [KS-33 Switches ](https://www.gateron.com/products/gateron-ks-33-low-profile-switch-set)
+* Gateron [Low Profile Hotswap Sockets](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket)
+* Gateron [Low Profile Stabilizers](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10477)
+* Wormier double-shot PBT keycaps [Aliexpress](https://aliexpress.com/item/1005008227731750.html)
 
-Adafruit [QT Py RP2040](https://www.adafruit.com/product/4900)
-0.91" OLED Display (SSD1306) [Aliexpress](https://de.aliexpress.com/item/1005004622658983.html)
-Bourns PEC11R-4315F-S0012 [Encoder](https://www2.mouser.com/ProductDetail/652-PEC11R4315FS0012)
-PCBs ordered on [JLCPCB](https://jlcpcb.com/)
+* Adafruit [QT Py RP2040](https://www.adafruit.com/product/4900)
+* 0.91" OLED Display (SSD1306) [Aliexpress](https://de.aliexpress.com/item/1005004622658983.html)
+* Bourns PEC11R-4315F-S0012 [Encoder](https://www2.mouser.com/ProductDetail/652-PEC11R4315FS0012)
+* PCBs ordered on [JLCPCB](https://jlcpcb.com/)
 
 ## Build Notes
 
